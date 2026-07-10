@@ -12,12 +12,16 @@ https://teses.usp.br/teses/disponiveis/45/45133/tde-26062026-181614/
 ## Repository structure
 
 ```
-.
-├── R/            # R functions
-├── data/         # Example datasets (if applicable)
-├── scripts/      # Simulation and analysis scripts
-├── figures/      # Generated figures
-└── README.md
+├── Códigos - Simulações/
+├── Códigos - Aplicações Reais/
+├── 00_TH_kx2_funcoes_dist.R
+├── 00_TH_kx2_funcoes_hpd.R
+├── 01_TH_kx2_gerar_dados.R
+├── 02_TH_kx2_resultados_dist.R
+├── 03_TH_kx2_resultados_hpd.R
+├── 04_TH_kx2_resultados_estimaprobs.R
+├── 05.1_TH_kx2_resultados_funcoes_aplicacao.R
+└── GFBST_Pragmatico.Rproj
 ```
 
 ## Requirements
@@ -45,4 +49,6 @@ Gabriela Massoni
 
 PhD  in Statistics.
 
-This project is licensed under the MIT License.
+## Reference
+
+Massoni, G. (2026). *Generalized Full Bayesian Significance Test for Pragmatic Hypotheses*. PhD Thesis, University of São Paulo.
